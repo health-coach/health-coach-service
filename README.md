@@ -44,12 +44,12 @@
 
 ### 👉 ERD
 
-![Untitled](https://github.com/user-attachments/assets/1396f9e4-1148-441b-a521-c04e863139cc)
+![ERD](https://github.com/user-attachments/assets/05531ce4-08a0-44c2-8da7-410ab8bf9bbb)
 
 ---
 ### 👉 클라우드 아키텍처
 
-![3차 프로젝트 아키텍처](https://github.com/user-attachments/assets/187551c3-cd8a-4ef5-b1b0-183cb1b8700f)
+![클라우드 아키텍처](https://github.com/user-attachments/assets/b90f2159-09fa-4cf1-bff2-f4a6351260fe)
 
 ---
   
