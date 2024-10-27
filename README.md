@@ -6,20 +6,21 @@
 
  - 사용자가 수행한 운동을 기록할 수 있으며 각 운동 시간을 그래프를 통해서 시각적으로 확인할 수 있습니다.
 
-![마이페이지 운동기록](https://github.com/user-attachments/assets/097240bc-7950-4ffc-811d-57828077a104)
+![개인운동기록관리](https://github.com/user-attachments/assets/5eafe4fd-f9f9-4f59-910d-3304c7b1f44f)
+
 
 ##### 건강 및 운동 관련 커뮤니티
 
 - 사용자들이 서로의 운동 및 식단 노하우를 공유하고, 건강한 라이프스타일을 지향하는 다양한 정보를 교류할 수 있는 커뮤니티 공간을 제공합니다.
 
-![게시글 작성](https://github.com/user-attachments/assets/06ec599a-1b67-49fd-a424-3ae9ce1b70a1)
-![게시글 목록](https://github.com/user-attachments/assets/8cc8f137-6625-410b-a7af-3978eaef9dde)
+![건강및운동관련커뮤니티(1)](https://github.com/user-attachments/assets/d5fb3979-45fe-40b8-922c-63b02ef8ac8d)
+![건강및운동관련커뮤니티(2)](https://github.com/user-attachments/assets/9f0f6626-11c8-4b8b-849d-705c5bb10e7f)
 
 ##### 운동 물품 중고 거래
 
 - 운동 용품을 필요로 하는 사용자들이 저렴하게 구매하거나, 사용하지 않는 물품을 판매할 수 있는 중고 거래 기능을 제공합니다.
 
-![경매 게시판](https://github.com/user-attachments/assets/38f8f3eb-7c55-4111-9e4a-55d802a1a49a)
+![운동물품중고거래](https://github.com/user-attachments/assets/1a05f535-0f33-488c-8349-2e0f74fa9282)
 
 ---
 
